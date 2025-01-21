@@ -1,0 +1,23 @@
+Categories:
+  - Sports & Health
+License: GPL-3.0-or-later
+SourceCode: https://github.com/JonahsTechBlog/Momentum
+IssueTracker: https://github.com/JonahsTechBlog/Momentum/issues
+
+Summary: Offline Workout Tracker
+Description: |-
+  Momentum is an offline workout tracker focusing on sets, local storage, 
+  ad-free usage, minimal distractions, and privacy.
+
+RepoType: git
+Repo: https://github.com/JonahsTechBlog/Momentum.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: main
+    subdir: .
+    gradle:
+      - yes
+    buildGradleVersion: 7.4.2
+    gradlePluginVersion: 7.4.2
