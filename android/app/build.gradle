@@ -1,5 +1,5 @@
 plugins {
-    id 'com.android.application'
+    id 'com.momentum.app'
     id 'kotlin-android'
 }
 
