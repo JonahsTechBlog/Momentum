@@ -7,7 +7,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.example.momentum"  // Adjust package if desired
+        applicationId "com.thryve.momentum"  // Adjust package if desired
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 1
